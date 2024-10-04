@@ -156,4 +156,4 @@ while True:
     opción=input("Ingrese la opción:")
     if opción == "1":
         calcular_promedio(temperaturas[0])
-
+        print
